@@ -17,7 +17,7 @@ Issue tracker is **ONLY** used for reporting bugs.
 <!--- Tell us what happens instead of the expected behavior -->
 
 ## Possible Solution
-<!--- Not obligatory, but suggest a fix/reason for the bug, -->
+<!--- Not mandatory, but suggest a fix/reason for the bug, -->
 
 ## Steps to Reproduce
 <!--- Provide a link to a live example, or an unambiguous set of steps to -->
@@ -37,4 +37,4 @@ Issue tracker is **ONLY** used for reporting bugs.
 <!--- Provide a detailed description of the change or addition you are proposing -->
 
 ## Possible Implementation
-<!--- Not obligatory, but suggest an idea for implementing addition or change -->
+<!--- Not mandatory, but suggest an idea for implementing addition or change -->
