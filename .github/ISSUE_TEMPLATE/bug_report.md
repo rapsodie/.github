@@ -1,6 +1,6 @@
 ---
-name: buggggg
-about: dismoi
+name: Bug Report
+about: Report a bug to fix it
 title: ''
 labels: ''
 assignees: ''
