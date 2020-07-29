@@ -1,6 +1,6 @@
 ---
-name: New idea
-about: Suggest an idea for this project
+name: New feature
+about: Suggest a new feature for this project
 title: ''
 labels: ''
 assignees: ''
@@ -8,18 +8,15 @@ assignees: ''
 ---
 
 <!--- Provide a general summary of the issue in the Title above -->
-
-## Current Behavior
-<!--- Tell us what happens instead of the expected behavior -->
+This is 
+- [ ] a new idea 💡
+- [ ] an improvement ⛏
 
 ## Identified problem
 <!--- Tell us why it's a problem -->
 
 ## Possible Solution
-<!--- Your suggestion to fix tue issue -->
-
-## Detailed Description
-<!--- Provide a detailed description of the change or addition you are proposing -->
+<!--- Your suggestion to fix tue issue. Make it as detailled as possible -->
 
 ## Possible Implementation
 <!--- Not mandatory, but suggest an idea for implementing addition or change -->
